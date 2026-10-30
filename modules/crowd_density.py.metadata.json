@@ -1,0 +1,4 @@
+{
+  "summary": "Fixed OpenCV Haar cascade loading error with bulletproof fallback and safe empty() checks.",
+  "updatedAt": "2026-08-26T15:55:31.670883300Z"
+}
